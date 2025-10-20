@@ -84,6 +84,32 @@ intelligent-enterprise-assistant/
 │
 └── README.md
 ```
+## How to Run Everything
+```
+Step 1: Open Terminal in your project folder
+cd intelligent-enterprise-assistant/backend
+
+Step 2: Install dependencies
+pip install -r requirements.txt
+
+Step 3: Start backend server
+uvicorn main:app --reload
+
+
+You’ll see:
+Running on http://127.0.0.1:8000
+
+Step 4: Open frontend
+
+Open frontend/index.html in your browser.
+Ask something like:
+
+What is the travel allowance?
+How many leave days are allowed?
+
+
+✅ It’ll reply using your sample policy data!
+```
 
 
 
