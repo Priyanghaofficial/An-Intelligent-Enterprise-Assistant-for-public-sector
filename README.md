@@ -1,16 +1,15 @@
 
 
+
+---
+
 # Intelligent Enterprise Assistant (SIH1706)
 
-An AI-powered virtual assistant designed to help the public sector work smarter.
-It automates tasks like document search, policy answering, leave requests, and helpdesk support — all through natural conversation.
-
-
+An AI-powered virtual assistant designed to help the public sector work smarter. It automates tasks like document search, policy answering, leave requests, and helpdesk support — all through natural conversation.
 
 ## Overview
 
 The Intelligent Enterprise Assistant acts as a smart chatbot that integrates with internal data, automating enterprise workflows for public sector organizations.
-
 It can:
 
 * Understand and answer employee or citizen queries
@@ -18,16 +17,10 @@ It can:
 * Automate internal tasks (leave/expense/helpdesk)
 * Provide a dashboard for administrators
 
-
-
 ## Problem Statement
 
-Government and public organizations face difficulty managing large amounts of internal documents and repetitive queries.
-Existing systems are slow and manual.
-
-Goal: Build a system that improves efficiency by combining AI + NLP + automation to create a self-learning digital assistant.
-
----
+Government and public organizations face difficulty managing large amounts of internal documents and repetitive queries. Existing systems are slow and manual.
+**Goal:** Build a system that improves efficiency by combining AI + NLP + automation to create a self-learning digital assistant.
 
 ## Features
 
@@ -37,8 +30,6 @@ Goal: Build a system that improves efficiency by combining AI + NLP + automation
 * Ticket creation for support issues
 * Dashboard for admin tracking
 * Role-based secure access
-
----
 
 ## Tech Stack
 
@@ -50,8 +41,6 @@ Goal: Build a system that improves efficiency by combining AI + NLP + automation
 | Database      | PostgreSQL / SQLite                    |
 | Vector Search | FAISS                                  |
 | Deployment    | Docker / Render / Railway              |
-
----
 
 ## Installation & Run
 
@@ -74,16 +63,11 @@ uvicorn main:app --reload
 
 Open `frontend/index.html` in your browser.
 
----
-
 ## Example Query
 
 > What is the travel allowance for Grade A officers?
 > How many casual leaves can I apply for?
-
-The assistant responds instantly from stored policies and returns the relevant section with citation.
-
----
+> The assistant responds instantly from stored policies and returns the relevant section with citation.
 
 ## Project Structure
 
@@ -103,19 +87,16 @@ intelligent-enterprise-assistant/
 └── README.md
 ```
 
----
+## Contributors
 
-
-
----
+* Priyangha G – Project Lead and Developer
+* (Add teammate names here if applicable)
 
 ## Hackathon Info
 
-Hackathon: Smart India Hackathon 2025
-Problem Statement: SIH1706 – Intelligent Enterprise Assistant for Public Sector
-Theme: Artificial Intelligence / Smart Automation
-
-
+**Hackathon:** Smart India Hackathon 2025
+**Problem Statement:** SIH1706 – Intelligent Enterprise Assistant for Public Sector
+**Theme:** Artificial Intelligence / Smart Automation
 
 ## Future Enhancements
 
@@ -124,10 +105,9 @@ Theme: Artificial Intelligence / Smart Automation
 * Connect with real HRMS or ERP systems via APIs
 * Add admin analytics dashboard
 
-
-
 ## License
 
 This project is open-source under the MIT License.
 
+---
 
