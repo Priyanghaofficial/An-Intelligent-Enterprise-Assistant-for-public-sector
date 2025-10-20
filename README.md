@@ -115,7 +115,7 @@ Hackathon: Smart India Hackathon 2025
 Problem Statement: SIH1706 – Intelligent Enterprise Assistant for Public Sector
 Theme: Artificial Intelligence / Smart Automation
 
----
+
 
 ## Future Enhancements
 
@@ -124,7 +124,7 @@ Theme: Artificial Intelligence / Smart Automation
 * Connect with real HRMS or ERP systems via APIs
 * Add admin analytics dashboard
 
----
+
 
 ## License
 
