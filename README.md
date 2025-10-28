@@ -126,6 +126,10 @@ How many leave days are allowed?
 * Connect with real HRMS or ERP systems via APIs
 * Add admin analytics dashboard
 
+## OUTPUT:
+<img width="906" height="669" alt="Employees are entitled to 20 days of annual leave per year, in addition to public holidays  Casual and sick leaves can also be availed as per HR policy" src="https://github.com/user-attachments/assets/8cbcaa7e-dd6f-4b2c-a9b1-b2d809416046" />
+
+
 ## License
 
 This project is open-source under the MIT License.
